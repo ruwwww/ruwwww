@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data and Backend Engineering
 - 🗿 I’m looking to collaborate System Design
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like cute boys
