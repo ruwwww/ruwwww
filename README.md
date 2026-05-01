@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Physics (Classical and Quantum)
 - 👯 I’m interested in High Performance Computing (HPC)
 - 🦠 I'm also interested in Computational Bio/Chem
-- 🤔 I’m looking for help with Anime Diffusion Model 
-- 💬 Ask me about Diffusion Model Acceleration
+- 🤔 I’m looking for help with Compiler Engineering 
+- 💬 Ask me about Computer Vision and Natural Language Processing
 - 🗿 I’m looking to collaborate in System Design and DevOps
 - 😄 Pronouns: He/Him
